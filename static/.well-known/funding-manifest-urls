@@ -1,1 +1,6 @@
-https://www.graphile.org/funding.json
+{
+  "version": 1,
+  "manifests": [
+    "https://www.graphile.org/funding.json"
+  ]
+}
