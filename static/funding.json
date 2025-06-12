@@ -8,7 +8,7 @@
     "description": "Devtools for Node.js, PostgreSQL and GraphQL focussed on development and execution efficiency.",
     "webpageUrl": {
       "url": "https://www.graphile.org",
-      wellknown:""
+      "wellKnown":""
     }
   },
   "projects": [
